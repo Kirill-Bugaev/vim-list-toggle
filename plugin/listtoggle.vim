@@ -57,7 +57,7 @@ endfunction
 
 function! s:QListToggle() abort
 	if !win_id2win(getqflist({'winid' : 1}).winid)
-		silent! botright copen
+		execute "silent! botright copen " . g:lt_height
 	else
     	silent! cclose
 	endif
