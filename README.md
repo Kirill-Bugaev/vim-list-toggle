@@ -1,4 +1,4 @@
-#vim-list-toggle
+# vim-list-toggle
 
 This is modified version of [ListToggle][].
 
