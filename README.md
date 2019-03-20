@@ -1,7 +1,6 @@
-ListToggle
-==========
+#vim-list-toggle
 
-This plugin is modified version of [ListToggle][].
+This is modified version of [ListToggle][].
 
 A simple vim plugin for toggling the display of the quickfix list and the
 location-list. Install it with [Vundle][] or [Pathogen][] (I recommend Vundle).
